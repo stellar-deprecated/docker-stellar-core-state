@@ -1,6 +1,6 @@
-FROM postgres:9.4.2
+FROM postgres:9.5
 
-MAINTAINER Mat Schaffer <mat@stellar.org>
+MAINTAINER Graydon Hoare <graydon@stellar.org>
 
 EXPOSE 5432
 
